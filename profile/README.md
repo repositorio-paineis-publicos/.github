@@ -7,5 +7,5 @@ Welcome to the Public Panels Repository!
 </p>
 
 <p align="center">
-Esta organização reúne painéis públicos com dados abertos da Rede EBSERH, desenvolvidos para fins<br> educacionais e com o propósito de gerar soluções que beneficiem a sociedade.
+Esta organização reúne painéis públicos com dados abertos da Rede EBSERH, desenvolvidos para fins<br> educacionais e com o propósito de gerar soluções que beneficiem a sociedade.<br> Acesse os painéis por meio deste <a href="https://paineisdados.com.br/">link</a>.
 </p>
