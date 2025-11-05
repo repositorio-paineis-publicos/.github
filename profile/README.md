@@ -3,7 +3,7 @@ Welcome to the Public Panels Repository!
 </h1>
 
 <p align="center">
-    <a href="https://paineisdados.com.br/"> <img src="imagens/icone.png" alt="Logo do Da organização" width="400" height="250"/> </a>
+    <a href="https://paineisdados.com.br/"> <img src="imagens/icone.png" alt="Logo do Da organização" width="400" height="251"/> </a>
 </p>
 
 <p align="center">
