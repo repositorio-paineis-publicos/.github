@@ -1,5 +1,5 @@
 <h1 align="center">
-Welcome to the Public Panels Repository!
+Bem-vind@ ao Repositório de Painéis Públicos!
 </h1>
 
 <p align="center">
